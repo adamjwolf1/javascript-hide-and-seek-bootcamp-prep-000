@@ -7,5 +7,5 @@ function nestedTarget() {
 }
 
 function increaseRankBy(n) {
-  const upRank = document.getElementById
+  const upRank = document.getElementById('app')
 }
