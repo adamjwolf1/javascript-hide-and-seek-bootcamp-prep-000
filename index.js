@@ -3,9 +3,9 @@ function getFirstSelector(selector) {
 }
 
 function nestedTarget() {
-  return document.getElementById('nested').querySelector('div.target')
+  return document.getElementById('nested').querySelector('div.target');
 }
 
 function increaseRankBy(n) {
-  const upRank = document.getElementById('app').querySelectorAll('ul.ranked-list')
+  const upRank = document.getElementById('app').querySelectorAll('ul.ranked-list');
 }
